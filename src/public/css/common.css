@@ -1,0 +1,64 @@
+.header {
+    background: #FFF;
+    border-bottom: solid 1px #E0DFDE;
+}
+
+.header__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 20px 15px;
+    width: 1330px;
+    height: 100px;
+}
+
+.header-left {
+    margin-left: 500px;
+}
+
+.header-right_logo {
+    text-decoration: none;
+    
+    color: #D9C6B5;
+    width: 100px;
+    height: 34px;
+    padding: 7px 12px;
+    font-size: 20px;
+    border: solid 1px #D9C6B5;
+    background-color: #F0F0F099;
+}
+
+.header__logo {
+    color: #8B7969;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 40px;
+    font-family: serif;
+}
+
+
+
+.header-nav__login {
+    font-size: 20px;
+    font-weight: 400;
+    color: #D9C6B5;
+    text-decoration: none;
+}
+
+.header-nav__register {
+    font-size: 20px;
+        font-weight: 400;
+    color: #D9C6B5;
+    text-decoration: none;
+}
+
+.header-nav__logout {
+    font-size: 20px;
+        font-weight: 400;
+    border: none;
+    background: transparent;
+    color: #D9C6B5;
+    cursor: pointer;
+}

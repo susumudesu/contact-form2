@@ -1,0 +1,197 @@
+
+
+.login-form__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1330px;
+}
+
+.login-form__heading {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: #8B7969;
+    font-family: serif;
+    font-weight: 400;
+    font-size: 35px;
+}
+
+.form {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.form__group {
+    display: flex;
+    margin: 20px auto;
+    justify-content: space-between;
+    width: 968px;
+    text-align: center;
+}
+
+.form__group-title {
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+    color: #8B7969;
+    margin-bottom: 15px;
+}
+
+.red {
+    color: #F08080;
+}
+
+.form__error--name {
+    display: flex;
+    justify-content: left;
+}
+
+.form__error {
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}
+
+.form__input--text input {
+    margin-right: 35px;
+    padding: 20px;
+    width: 280px;
+    height: 38px;
+    border: none;
+    background-color: #F4F4F4;
+
+    appearance: none;
+}
+
+.form__input--text input::placeholder {
+    color: #BEB1A6;
+}
+
+.form__input--text2 input {
+    padding: 20px;
+    width: 280px;
+    height: 38px;
+    border: none;
+    background-color: #F4F4F4;
+
+    appearance: none;
+}
+
+.form__input--text2 input::placeholder {
+    color: #BEB1A6;
+}
+
+.form__input--radio {
+    margin-right: 250px;
+}
+
+.radio-label {
+    font-size: 18px;
+    font-weight: 400;
+    color: #8B7969;
+    margin-right: 50px;
+}
+
+.form__input--email input {
+    padding: 20px;
+    width: 600px;
+    height: 38px;
+    border: none;
+    background-color: #F4F4F4;
+
+    appearance: none;
+}
+
+.form__input--email input::placeholder {
+    color: #BEB1A6;
+}
+
+.form__input--tel input {
+    padding: 20px;
+    width: 175px;
+    height: 38px;
+    border: none;
+    background-color: #F4F4F4;
+
+    appearance: none;
+}
+
+.form__input--tel input::placeholder {
+    color: #BEB1A6;
+}
+
+.hyphen {
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+.form__input--address input {
+    padding: 20px;
+    width: 600px;
+    height: 38px;
+    border: none;
+    background-color: #F4F4F4;
+
+    appearance: none;
+}
+
+.form__input--address input::placeholder {
+    color: #BEB1A6;
+}
+
+.form__input--building input {
+    padding: 20px;
+    width: 600px;
+    height: 38px;
+    border: none;
+    background-color: #F4F4F4;
+
+    appearance: none;
+}
+
+.form__input--building input::placeholder {
+    color: #BEB1A6;
+}
+
+.content__select:required {
+    margin-right: 270px;
+        padding-left: 20px;
+        width: 331px;
+        height: 38px;
+        border: none;
+        font-size: 14px;
+        background-color: #F4F4F4;
+        color: #BEB1A6;
+}
+
+
+textarea {
+    padding: 20px;
+        width: 600px;
+        height: 130px;
+        border: none;
+        background-color: #F4F4F4;
+        resize: none;
+        appearance: none;
+}
+
+textarea::placeholder {
+    color: #BEB1A6;
+}
+
+.form__button {
+    margin-top: 40px;
+}
+
+.form__button-submit {
+    padding: 10px;
+    width: 160px;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    background: #82756A;
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+    cursor: pointer;
+}
