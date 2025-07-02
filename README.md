@@ -39,5 +39,10 @@
 
 ![Image](https://github.com/user-attachments/assets/0242382e-13cf-4737-8596-d017786bf62b)
 
+## URL
+
+・開発環境：http://localhost/
+
+・phpMyAdmin：http://localhost:8080/
 
   
